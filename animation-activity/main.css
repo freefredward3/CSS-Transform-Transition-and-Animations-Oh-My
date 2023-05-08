@@ -27,6 +27,7 @@ body  {
   height: 10px;
   width: 70%;
   margin: auto;
+  transition: .1s;
 }
 
 li {
